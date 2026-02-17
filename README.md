@@ -1,3 +1,5 @@
+<img width="8192" height="4320" alt="Untitled-1" src="https://github.com/user-attachments/assets/52bd7013-a01c-4ceb-bbec-5eea3d2e4100" />
+
 # 🎵 V Secret
 
 **V Secret** is a professional **audio steganography tool** that allows you to:  
